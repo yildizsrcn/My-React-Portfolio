@@ -1,0 +1,20 @@
+.navcontainer{
+margin: 0;
+padding: 0;
+
+
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem;
+    list-style: none;
+    background-color: aquamarine;
+}
+
+.navitem{
+
+    color: blue;
+}
