@@ -9,7 +9,7 @@ export const Root = () => {
         <ul className='nav'>
             <li>
                 <Link className='navitem' to="/">
-                home                
+                Home                
                 </Link>
             </li>
             <li>
@@ -17,7 +17,11 @@ export const Root = () => {
                 Work                
                 </Link>
             </li>
-
+            <li>
+                <Link className='navitem' to="/contact">
+                Contact                
+                </Link>
+            </li>
         </ul>
         <Outlet/>
     </div>
