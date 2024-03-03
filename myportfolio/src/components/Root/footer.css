@@ -1,0 +1,11 @@
+li{
+    display: flex;
+    list-style: none;
+    padding: 1rem;
+    justify-content: space-evenly;
+    background-color: aquamarine;
+    color: blue;
+    font-size: larger;
+    font-style: italic;
+
+}

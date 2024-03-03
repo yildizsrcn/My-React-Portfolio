@@ -3,11 +3,11 @@ import React from 'react'
 export const Work = () => {
     const projects = [
         {
-          title: 'Project 1',
-          description: 'This is a description for Project 1.',
-          image: 'path/to/image1.jpg',
-          deployedLink: 'https://project1.com',
-          githubLink: 'https://github.com/user/project1',
+          title: 'Team-Profile-Generator',
+          description: 'This application provide you to create a Team.',
+          image: 'path/to/image1.png',
+          deployedLink: 'https://yildizsrcn.github.io/Team-Profile-Generator/',
+          githubLink: 'https://github.com/yildizsrcn/Team-Profile-Generator',
         },
         {
             title: 'Project 2',
