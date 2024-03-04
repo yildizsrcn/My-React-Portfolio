@@ -19,6 +19,11 @@ export const Root = () => {
                 </Link>
             </li>
             <li>
+                <Link className='navitem' to="/resume">
+                Resume                
+                </Link>
+            </li>
+            <li>
                 <Link className='navitem' to="/contact">
                 Contact                
                 </Link>
@@ -37,6 +42,7 @@ export const Root = () => {
         <br />
         <br />
         </li>
+        <p>© 2024 Yusuf Sercan YILDIZ. All rights reserved.</p>
         </footer>
     </div>
   )
