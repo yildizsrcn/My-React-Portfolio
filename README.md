@@ -27,8 +27,8 @@ This is my portfolio which is created by React.
 
 ## Images
 
-![Alt text](myportfolio/src/assets/readmeimage1.png)
-![Alt text](myportfolio/src/assets/readmeimage2.png)
+![Alt text](src/assets/readmeimage1.png)
+![Alt text](src/assets/readmeimage2.png)
 
 ## License
 
